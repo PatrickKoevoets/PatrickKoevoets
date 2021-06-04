@@ -1,4 +1,4 @@
-![Patrick Koevoets](https://avatars.githubusercontent.com/u/2064552?s=400&v=4)
+![Patrick Koevoets](./avatar.png)
 
 # Patrick Koevoets
 
