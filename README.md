@@ -10,6 +10,6 @@ My passion for my work helps me to enthusiasm the people around me and myself. M
 
 ## Get in touch
 
-* Twitter: https://twitter.com/patrickkeovoets
+* Twitter: https://twitter.com/patrickkoevoets
 * Personal site: ....
 * LinkedIn: https://www.linkedin.com/in/patrickkoevoets
