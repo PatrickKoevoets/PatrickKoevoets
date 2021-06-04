@@ -1,4 +1,4 @@
-![Patrick Koevoets](https://s.gravatar.com/avatar/3b05a937cfe13d1448920a0c3bd23053?s=80)
+![Patrick Koevoets](https://avatars.githubusercontent.com/u/2064552?s=400&v=4)
 
 # Patrick Koevoets
 
